@@ -1,1 +1,1 @@
-omdb_api_key = 'e82a912b'
+omdb_api_key = 'YOUR KEY HERE'
