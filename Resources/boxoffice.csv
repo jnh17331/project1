@@ -1,5 +1,5 @@
 index,rank,title,studio,lifetime_gross,year
-0,1,Star Wars: The Force Awakens,BV,936662225,2015
+0,1,Star Wars: Episode VII,BV,936662225,2015
 1,2,Avengers: Endgame,BV,857190335,2019
 2,3,Avatar,Fox,760507625,2009
 3,4,Black Panther,BV,700059566,2018
@@ -31,7 +31,7 @@ index,rank,title,studio,lifetime_gross,year
 29,30,The Hunger Games,LGF,408010692,2012
 30,31,Toy Story 4,BV,404979743,2019
 31,32,Jumanji: Welcome to the Jungle,Sony,404564861,2017
-32,33,The Lion King (2019),BV,403748078,2019
+32,33,The Lion King,BV,403748078,2019
 33,34,Spider-Man,Sony,403706375,2002
 34,35,Jurassic Park,Uni.,402828120,1993
 35,36,Transformers: Revenge of the Fallen,P/DW,402111870,2009
@@ -45,14 +45,14 @@ index,rank,title,studio,lifetime_gross,year
 43,44,The Passion of the Christ,NM,370782930,2004
 44,45,The Secret Life of Pets,Uni.,368384330,2016
 45,46,Despicable Me 2,Uni.,368061265,2013
-46,47,The Jungle Book (2016),BV,364001123,2016
+46,47,The Jungle Book,BV,364001123,2016
 47,48,Deadpool,Fox,363070709,2016
 48,49,Inside Out,BV,356461711,2015
 49,50,Spider-Man: Far from Home,Sony,354788925,2019
 50,51,Furious 7,Uni.,353007020,2015
 51,52,Transformers: Dark of the Moon,P/DW,352390543,2011
 52,53,American Sniper,WB,350126372,2014
-53,54,Aladdin (2019),BV,348926592,2019
+53,54,Aladdin,BV,348926592,2019
 54,55,The Lord of the Rings: The Two Towers,NL,342551365,2002
 55,56,Zootopia,BV,341268248,2016
 56,57,The Hunger Games: Mockingjay - Part 1,LGF,337135885,2014
@@ -60,7 +60,7 @@ index,rank,title,studio,lifetime_gross,year
 58,59,Minions,Uni.,336045770,2015
 59,60,Aquaman,WB,335061807,2018
 60,61,Spider-Man: Homecoming,Sony,334201140,2017
-61,62,Alice in Wonderland (2010),BV,334191110,2010
+61,62,Alice in Wonderland,BV,334191110,2010
 62,63,Guardians of the Galaxy,BV,333176600,2014
 63,64,Forrest Gump,Par.,330455270,1994
 64,65,Batman v Superman: Dawn of Justice,WB,330360194,2016
@@ -103,7 +103,7 @@ index,rank,title,studio,lifetime_gross,year
 101,102,Meet the Fockers,Uni.,279261160,2004
 102,103,The Hangover,WB,277322503,2009
 103,104,Gravity,WB,274092705,2013
-104,105,Dr. Seuss' The Grinch (2018),Uni.,270620950,2018
+104,105,Dr. Seuss' The Grinch,Uni.,270620950,2018
 105,106,Sing,Uni.,270395425,2016
 106,107,Monsters University,BV,268492764,2013
 107,108,Shrek,DW,267665011,2001
@@ -156,7 +156,7 @@ index,rank,title,studio,lifetime_gross,year
 154,155,Signs,BV,227966634,2002
 155,156,Hancock,Sony,227946274,2008
 156,157,The Bourne Ultimatum,Uni.,227471070,2007
-157,158,Logan (2017),Fox,226277068,2017
+157,158,Logan,Fox,226277068,2017
 158,159,Rush Hour 2,NL,226164286,2001
 159,160,The Fate of the Furious,Uni.,226008385,2017
 160,161,WALL-E,BV,223808164,2008
@@ -179,11 +179,11 @@ index,rank,title,studio,lifetime_gross,year
 177,178,Madagascar 3: Europe's Most Wanted,P/DW,216391482,2012
 178,179,Kung Fu Panda,P/DW,215434591,2008
 179,180,Mission: Impossible II,Par.,215409889,2000
-180,181,A Star is Born (2018),WB,215288866,2018
+180,181,A Star is Born,WB,215288866,2018
 181,182,X2: X-Men United,Fox,214949694,2003
 182,183,Dr. Seuss' The Lorax,Uni.,214030500,2012
 183,184,Solo: A Star Wars Story,BV,213767512,2018
-184,185,Venom (2018),Sony,213515506,2018
+184,185,Venom,Sony,213515506,2018
 185,186,Austin Powers in Goldmember,NL,213307889,2002
 186,187,300,WB,210614939,2007
 187,188,Back to the Future,Uni.,210609762,1985
@@ -203,11 +203,11 @@ index,rank,title,studio,lifetime_gross,year
 201,202,World War Z,Par.,202359711,2013
 202,203,The Mummy Returns,Uni.,202019785,2001
 203,204,Armageddon,BV,201578182,1998
-204,205,Cinderella (2015),BV,201151353,2015
+204,205,Cinderella,BV,201151353,2015
 205,206,Ralph Breaks the Internet,BV,201091711,2018
 206,207,Gone with the Wind,MGM,200852579,1939
 207,208,Tangled,BV,200821936,2010
-208,209,Godzilla (2014),WB,200676069,2014
+208,209,Godzilla,WB,200676069,2014
 209,210,Superman Returns,WB,200081192,2006
 210,211,Spectre,Sony,200074609,2015
 211,212,Pearl Harbor,BV,198542554,2001
@@ -222,7 +222,7 @@ index,rank,title,studio,lifetime_gross,year
 220,221,Toy Story,BV,191796233,1995
 221,222,22 Jump Street,Sony,191719337,2014
 222,223,Cars 2,BV,191452396,2011
-223,224,Teenage Mutant Ninja Turtles (2014),Par.,191204754,2014
+223,224,Teenage Mutant Ninja Turtles,Par.,191204754,2014
 224,225,Men in Black II,Sony,190418803,2002
 225,226,Spider-Man: Into The Spider-Verse,Sony,190241310,2018
 226,227,Grease,Par.,189969103,1978
@@ -252,7 +252,7 @@ index,rank,title,studio,lifetime_gross,year
 250,251,Thor,Par.,181030624,2011
 251,252,Mission: Impossible,Par.,180981856,1996
 252,253,Ant-Man,BV,180202163,2015
-253,254,Planet of the Apes (2001),Fox,180011740,2001
+253,254,Planet of the Apes,Fox,180011740,2001
 254,255,Madagascar: Escape 2 Africa,P/DW,180010950,2008
 255,256,X-Men Origins: Wolverine,Fox,179883157,2009
 256,257,Indiana Jones and the Temple of Doom,Par.,179870271,1984
@@ -260,7 +260,7 @@ index,rank,title,studio,lifetime_gross,year
 258,259,Hitch,Sony,179495555,2005
 259,260,MIB 3,Sony,179020854,2012
 260,261,Pretty Woman,BV,178406268,1990
-261,262,Home (2015),Fox,177397510,2015
+261,262,Home,Fox,177397510,2015
 262,263,Night at the Museum: Battle of the Smithsonian,Fox,177243721,2009
 263,264,Tootsie,Col.,177200000,1982
 264,265,How to Train Your Dragon 2,Fox,177002924,2014
@@ -313,7 +313,7 @@ index,rank,title,studio,lifetime_gross,year
 311,312,The Proposal,BV,163958031,2009
 312,313,The Pursuit of Happyness,Sony,163566459,2006
 313,314,Big Daddy,Sony,163479795,1999
-314,315,Clash of the Titans (2010),WB,163214888,2010
+314,315,Clash of the Titans,WB,163214888,2010
 315,316,The SpongeBob Movie: Sponge Out of Water,Par.,162994032,2015
 316,317,Batman Returns,WB,162902340,1992
 317,318,Django Unchained,Wein.,162805434,2012
@@ -328,7 +328,7 @@ index,rank,title,studio,lifetime_gross,year
 326,327,How to Train Your Dragon: The Hidden World,Uni.,160799505,2019
 327,328,The Heat,Fox,159582188,2013
 328,329,Fantastic Beasts: The Crimes of Grindelwald,WB,159555901,2018
-329,330,Halloween (2018),Uni.,159342015,2018
+329,330,Halloween,Uni.,159342015,2018
 330,331,The Sound of Music,Fox,159287539,1965
 331,332,Star Trek Beyond,Par.,158848340,2016
 332,333,The Firm,Par.,158348367,1993
@@ -346,7 +346,7 @@ index,rank,title,studio,lifetime_gross,year
 344,345,Fast and Furious,Uni.,155064265,2009
 345,346,Over the Hedge,P/DW,155019340,2006
 346,347,The Secret Life of Pets 2,Uni.,154899025,2019
-347,348,Fantastic Four (2005),Fox,154696080,2005
+347,348,Fantastic Four,Fox,154696080,2005
 348,349,Dr. Seuss' Horton Hears a Who!,Fox,154529439,2008
 349,350,Mad Max: Fury Road,WB,154058340,2015
 350,351,Jerry Maguire,Sony,153952592,1996
@@ -367,7 +367,7 @@ index,rank,title,studio,lifetime_gross,year
 365,366,Neighbors,Uni.,150157400,2014
 366,367,American Hustle,Sony,150117807,2013
 367,368,Puss in Boots,P/DW,149260504,2011
-368,369,Les Miserables (2012),Uni.,148809770,2012
+368,369,Les Miserables,Uni.,148809770,2012
 369,370,Knocked Up,Uni.,148768917,2007
 370,371,As Good as It Gets,Sony,148478011,1997
 371,372,Little Fockers,Uni.,148438600,2010
@@ -385,7 +385,7 @@ index,rank,title,studio,lifetime_gross,year
 383,384,American Pie 2,Uni.,145103595,2001
 384,385,Taken,Fox,145000989,2009
 385,386,101 Dalmatians,Dis.,144880014,1961
-386,387,The Great Gatsby (2013),WB,144840419,2013
+386,387,The Great Gatsby,WB,144840419,2013
 387,388,The Santa Clause,BV,144833357,1994
 388,389,"I, Robot",Fox,144801023,2004
 389,390,Lethal Weapon 3,WB,144731527,1992
@@ -424,7 +424,7 @@ index,rank,title,studio,lifetime_gross,year
 422,423,21 Jump Street,Sony,138447667,2012
 423,424,Good Will Hunting,Mira.,138433435,1997
 424,425,Split,Uni.,138291365,2017
-425,426,A Christmas Carol (2009),BV,137855863,2009
+425,426,A Christmas Carol,BV,137855863,2009
 426,427,Dinosaur,BV,137748063,2000
 427,428,Ready Player One,WB,137690172,2018
 428,429,The Conjuring,WB (NL),137400141,2013
@@ -432,7 +432,7 @@ index,rank,title,studio,lifetime_gross,year
 430,431,The Green Mile,WB,136801374,1999
 431,432,Ransom,BV,136492681,1996
 432,433,Godzilla,Sony,136314294,1998
-433,434,101 Dalmatians (1996),BV,136189294,1996
+433,434,101 Dalmatians,BV,136189294,1996
 434,435,Argo,WB,136025503,2012
 435,436,Anger Management,SonR,135645823,2003
 436,437,Chicken Little,BV,135386665,2005
@@ -475,9 +475,9 @@ index,rank,title,studio,lifetime_gross,year
 473,474,American Beauty,DW,130096601,1999
 474,475,An Officer and a Gentleman,Par.,129795554,1982
 475,476,The Ring,DW,129128133,2002
-476,477,The Nutty Professor (1996),Uni.,128814019,1996
+476,477,The Nutty Professor,Uni.,128814019,1996
 477,478,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,Fox,128505958,2006
-478,479,Ghostbusters (2016),Sony,128350574,2016
+478,479,Ghostbusters,Sony,128350574,2016
 479,480,Kingsman: The Secret Service,Fox,128261724,2015
 480,481,Robots,Fox,128200012,2005
 481,482,Coming to America,Par.,128152301,1988
@@ -553,7 +553,7 @@ index,rank,title,studio,lifetime_gross,year
 551,552,The Other Guys,Sony,119219978,2010
 552,553,Fahrenheit 9/11,Lions,119194771,2004
 553,554,The Sum of All Fears,Par.,118907036,2002
-554,555,Hairspray (2007),NL,118871849,2007
+554,555,Hairspray,NL,118871849,2007
 555,556,The Break-Up,Uni.,118703275,2006
 556,557,Lemony Snicket's A Series of Unfortunate Events,Par.,118634549,2004
 557,558,Blades of Glory,P/DW,118594548,2007
@@ -587,7 +587,7 @@ index,rank,title,studio,lifetime_gross,year
 585,586,Girls Trip,Uni.,115171585,2017
 586,587,The Karate Kid Part II,Col.,115103979,1986
 587,588,American Graffiti,Uni.,115000000,1973
-588,589,Dumbo (2019),BV,114750181,2019
+588,589,Dumbo,BV,114750181,2019
 589,590,Fifty Shades Darker,Uni.,114581250,2017
 590,591,DodgeBall: A True Underdog Story,Fox,114326736,2004
 591,592,The Village,BV,114197520,2004
@@ -686,12 +686,12 @@ index,rank,title,studio,lifetime_gross,year
 684,685,The Expendables,LGF,103068524,2010
 685,686,Scream,Dim.,103046663,1996
 686,687,Just Go With It,Sony,103028109,2011
-687,688,Murder on the Orient Express (2017),Fox,102826543,2017
+687,688,Murder on the Orient Express,Fox,102826543,2017
 688,689,The General's Daughter,Par.,102705852,1999
 689,690,The Aviator,Mira.,102610330,2004
 690,691,American Pie,Uni.,102561004,1999
 691,692,Daredevil,Fox,102543518,2003
-692,693,The Girl with the Dragon Tattoo (2011),Sony,102515793,2011
+692,693,The Girl with the Dragon Tattoo,Sony,102515793,2011
 693,694,The Mummy: Tomb of the Dragon Emperor,Uni.,102491776,2008
 694,695,The Conjuring 2,WB (NL),102470008,2016
 695,696,The Maze Runner,Fox,102427862,2014
@@ -719,7 +719,7 @@ index,rank,title,studio,lifetime_gross,year
 717,718,The Cat in the Hat,Uni.,101149285,2003
 718,719,Con Air,BV,101117573,1997
 719,720,Sleepy Hollow,Par.,101071502,1999
-720,721,Rampage (2018),WB (NL),101028233,2018
+720,721,Rampage,WB (NL),101028233,2018
 721,722,Collateral,DW,101005703,2004
 722,723,Contact,WB,100920329,1997
 723,724,Charlie's Angels: Full Throttle,Sony,100830111,2003
@@ -746,7 +746,7 @@ index,rank,title,studio,lifetime_gross,year
 744,745,Seven,NL,100125643,1995
 745,746,Parenthood,Uni.,100047830,1989
 746,747,You Don't Mess with the Zohan,Sony,100018837,2008
-747,748,Passengers (2016),Sony,100014699,2016
+747,748,Passengers,Sony,100014699,2016
 748,749,Die Hard: With A Vengeance,Fox,100012499,1995
 749,750,Gnomeo and Juliet,BV,99967670,2011
 750,751,Disney's Christopher Robin,BV,99215042,2018
@@ -791,12 +791,12 @@ index,rank,title,studio,lifetime_gross,year
 789,790,Lady and the Tramp,Dis.,93602326,1955
 790,791,The Bucket List,WB,93466502,2007
 791,792,Tomorrowland,BV,93436322,2015
-792,793,The Magnificent Seven (2016),Sony,93432655,2016
+792,793,The Magnificent Seven,Sony,93432655,2016
 793,794,Cats & Dogs,WB,93385515,2001
 794,795,Space Station 3-D (IMAX),IMAX,93376768,2002
 795,796,Two Weeks Notice,WB,93354851,2002
 796,797,Red Dragon,Uni.,93149898,2002
-797,798,Cinderella (1950),Dis.,93141149,1950
+797,798,Cinderella,Dis.,93141149,1950
 798,799,Elysium,TriS,93050117,2013
 799,800,Flubber,BV,92977226,1997
 800,801,Flashdance,Par.,92921203,1983
@@ -857,7 +857,7 @@ index,rank,title,studio,lifetime_gross,year
 855,856,Peter Pan,Dis.,87404651,1953
 856,857,Pineapple Express,Sony,87341380,2008
 857,858,Miss Peregrine's Home for Peculiar Children,Fox,87242834,2016
-858,859,Everest (IMAX),MFF,87178599,1998
+858,859,Everest,MFF,87178599,1998
 859,860,Out of Africa,Uni.,87071205,1985
 860,861,Sisters,Uni.,87044645,2015
 861,862,Saw II,Lions,87039965,2005
@@ -871,15 +871,15 @@ index,rank,title,studio,lifetime_gross,year
 869,870,Dumb and Dumber To,Uni.,86208010,2014
 870,871,The Emoji Movie,Sony,86089513,2017
 871,872,Mean Girls,Par.,86058055,2004
-872,873,Annie (2014),Sony,85911262,2014
+872,873,Annie,Sony,85911262,2014
 873,874,Alvin and the Chipmunks: The Road Chip,Fox,85886987,2015
 874,875,Spy Kids 2: The Island of Lost Dreams,Dim.,85846429,2002
-875,876,Fury (2014),Sony,85817906,2014
+875,876,Fury,Sony,85817906,2014
 876,877,Pokemon: The First Movie,WB,85744662,1999
 877,878,Alita: Battle Angel,Fox,85710210,2019
 878,879,Real Steel,BV,85468508,2011
 879,880,The SpongeBob SquarePants Movie,Par.,85417988,2004
-880,881,Power Rangers (2017),LGF,85364450,2017
+880,881,Power Rangers,LGF,85364450,2017
 881,882,Brother Bear,BV,85336277,2003
 882,883,Stripes,Col.,85297000,1981
 883,884,Anchorman: The Legend of Ron Burgundy,DW,85288303,2004
@@ -902,7 +902,7 @@ index,rank,title,studio,lifetime_gross,year
 900,901,Scooby-Doo 2: Monsters Unleashed,WB,84216833,2004
 901,902,Atlantis: The Lost Empire,BV,84056472,2001
 902,903,Cliffhanger,TriS,84049211,1993
-903,904,The Other Woman (2014),Fox,83911193,2014
+903,904,The Other Woman,Fox,83911193,2014
 904,905,The X-Files,Fox,83898313,1998
 905,906,Up in the Air,Par.,83823381,2009
 906,907,Wrath of the Titans,WB,83670083,2012
@@ -922,7 +922,7 @@ index,rank,title,studio,lifetime_gross,year
 920,921,Brokeback Mountain,Focus,83043761,2005
 921,922,Turbo,Fox,83028128,2013
 922,923,Disclosure,WB,83015089,1994
-923,924,Charlotte's Web (2006),Par.,82985708,2006
+923,924,Charlotte's Web,Par.,82985708,2006
 924,925,Monster-in-Law,NL,82931301,2005
 925,926,Are We There Yet?,SonR,82674398,2005
 926,927,Days of Thunder,Par.,82670733,1990
@@ -937,12 +937,12 @@ index,rank,title,studio,lifetime_gross,year
 935,936,Beowulf,Par.,82280579,2007
 936,937,Bridge to Terabithia,BV,82272442,2007
 937,938,Star Trek: The Motion Picture,Par.,82258456,1979
-938,939,The Pink Panther (2006),Sony,82226474,2006
+938,939,The Pink Panther,Sony,82226474,2006
 939,940,Teenage Mutant Ninja Turtles: Out of the Shadows,Par.,82051601,2016
 940,941,The Post,Fox,81903458,2017
 941,942,Jaws 2,Uni.,81766007,1978
 942,943,Maze Runner: The Scorch Trials,Fox,81697192,2015
-943,944,Heaven Can Wait (1978),Par.,81640278,1978
+943,944,Heaven Can Wait,Par.,81640278,1978
 944,945,Eight Below,BV,81612565,2006
 945,946,M.A.S.H.,Fox,81600000,1970
 946,947,Unstoppable,Fox,81562942,2010
@@ -968,7 +968,7 @@ index,rank,title,studio,lifetime_gross,year
 966,967,The Dukes of Hazzard,WB,80270227,2005
 967,968,The Wedding Singer,NL,80245725,1998
 968,969,Saw III,LGF,80238724,2006
-969,970,The Mummy (2017),Uni.,80227895,2017
+969,970,The Mummy,Uni.,80227895,2017
 970,971,Disturbia,P/DW,80209692,2007
 971,972,Nacho Libre,Par.,80197993,2006
 972,973,Jumper,Fox,80172128,2008
@@ -977,7 +977,7 @@ index,rank,title,studio,lifetime_gross,year
 975,976,Cloverfield,Par.,80048433,2008
 976,977,Footloose,Par.,80035402,1984
 977,978,Dear John,SGem,80014842,2010
-978,979,A Star Is Born (1976),WB,80000000,1976
+978,979,A Star Is Born,WB,80000000,1976
 979,980,Knowing,Sum.,79957634,2009
 980,981,War Horse,BV,79884879,2011
 981,982,The Golden Child,Par.,79817937,1986
@@ -985,7 +985,7 @@ index,rank,title,studio,lifetime_gross,year
 983,984,Earthquake,Uni.,79666653,1974
 984,985,Hannah Montana The Movie,BV,79576189,2009
 985,986,WarGames,MGM,79567667,1983
-986,987,The Day the Earth Stood Still (2008),Fox,79366978,2008
+986,987,The Day the Earth Stood Still,Fox,79366978,2008
 987,988,Limitless,Rela.,79249455,2011
 988,989,The Purge: Election Year,Uni.,79213375,2016
 989,990,Cape Fear,Uni.,79091969,1991
@@ -1011,7 +1011,7 @@ index,rank,title,studio,lifetime_gross,year
 1009,1010,The Adventures of Tintin,Par.,77591831,2011
 1010,1011,Philadelphia,TriS,77446440,1993
 1011,1012,March of the Penguins,WIP,77437223,2005
-1012,1013,Night School (2018),Uni.,77339130,2018
+1012,1013,Night School,Uni.,77339130,2018
 1013,1014,Parental Guidance,Fox,77267296,2012
 1014,1015,Where the Wild Things Are,WB,77233467,2009
 1015,1016,The A-Team,Fox,77222099,2010
