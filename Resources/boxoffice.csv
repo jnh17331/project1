@@ -7,7 +7,7 @@ index,rank,title,studio,lifetime_gross,year
 5,6,Titanic,Par.,659363944,1997
 6,7,Jurassic World,Uni.,652270625,2015
 7,8,The Avengers,BV,623357910,2012
-8,9,Star Wars: The Last Jedi,BV,620181382,2017
+8,9,Star Wars:Episode VIII,BV,620181382,2017
 9,10,Incredibles 2,BV,608581744,2018
 10,11,The Dark Knight,WB,535234033,2008
 11,12,Rogue One: A Star Wars Story,BV,532177324,2016
@@ -926,7 +926,7 @@ index,rank,title,studio,lifetime_gross,year
 924,925,Monster-in-Law,NL,82931301,2005
 925,926,Are We There Yet?,SonR,82674398,2005
 926,927,Days of Thunder,Par.,82670733,1990
-927,928,Freddy Vs. Jason,NL,82622655,2003
+927,928,Freddy Vs Jason,NL,82622655,2003
 928,929,The Descendants,FoxS,82584160,2011
 929,930,Cheaper by the Dozen 2,Fox,82571173,2005
 930,931,Mr. Holland's Opus,BV,82569971,1995
